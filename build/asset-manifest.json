@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kybing-website/static/css/main.585d6698.chunk.css",
+    "main.js": "/kybing-website/static/js/main.f894c799.chunk.js",
+    "main.js.map": "/kybing-website/static/js/main.f894c799.chunk.js.map",
+    "runtime-main.js": "/kybing-website/static/js/runtime-main.c05fd87d.js",
+    "runtime-main.js.map": "/kybing-website/static/js/runtime-main.c05fd87d.js.map",
+    "static/js/2.18c740d2.chunk.js": "/kybing-website/static/js/2.18c740d2.chunk.js",
+    "static/js/2.18c740d2.chunk.js.map": "/kybing-website/static/js/2.18c740d2.chunk.js.map",
+    "index.html": "/kybing-website/index.html",
+    "precache-manifest.14d190b0345a229469535442422a2cf5.js": "/kybing-website/precache-manifest.14d190b0345a229469535442422a2cf5.js",
+    "service-worker.js": "/kybing-website/service-worker.js",
+    "static/css/main.585d6698.chunk.css.map": "/kybing-website/static/css/main.585d6698.chunk.css.map",
+    "static/js/2.18c740d2.chunk.js.LICENSE.txt": "/kybing-website/static/js/2.18c740d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c05fd87d.js",
+    "static/js/2.18c740d2.chunk.js",
+    "static/css/main.585d6698.chunk.css",
+    "static/js/main.f894c799.chunk.js"
+  ]
+}

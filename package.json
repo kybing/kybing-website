@@ -2,6 +2,8 @@
   "name": "kybing-website",
   "version": "0.1.0",
   "private": true,
+  "description": "Website for KYBING PVT LTD",
+  "homepage": "https://kybing2020.github.io/kybing-website",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -14,7 +16,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -30,5 +33,15 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kybing2020/kybing-website"
+  },
+  "bugs": {
+    "url": "https://github.com/kybing2020/kybing-website/issues"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
