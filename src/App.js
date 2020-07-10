@@ -7,10 +7,18 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
+        <h2>
           Hello there, Welcome to KYBING 
-        </p>
+        </h2>
       </header>
+      <div class="members">
+        <h3>Board of Directors</h3>
+        <ul>Uday Sravan Kumar Kamineni</ul>
+        <ul>Amarendhar Ganji</ul>
+        <ul>Anusha Patil</ul>
+        <ul>Kalyan Pavan Kumar Kamineni</ul>
+        <ul>Saritha Madala</ul>
+      </div>
     </div>
   );
 }
