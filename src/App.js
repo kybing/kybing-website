@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.png';
 import './App.css';
+import { Link } from 'react-router-dom';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
           Welcome to KYBING 
         </h2>
       </header>
+      <Link to="/about">About</Link>
       <div class="members">
         <h3>Board of Directors</h3>
         <ul>Uday Sravan Kumar Kamineni</ul>
