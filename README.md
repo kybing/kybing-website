@@ -70,21 +70,25 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ### Contributors
 <div style="display: grid;">
   <div>
-    ![@admin-kybing](https://github.com/admin-kybing)
+    <a href="https://github.com/admin-kybing">![@admin-kybing](https://avatars.githubusercontent.com/admin-kybing?s=150&v=1)</a>
   </div>
   <div>
+    <a href="https://github.com/amarendhar-kybing">![@amarendhar-kybing](https://avatars.githubusercontent.com/amarendhar-kybing?s=150&v=1)</a>
     ![@amarendhar-kybing](https://github.com/amarendhar-kybing)
   </div>
   <div>
+    <a href="https://github.com/anusha-kybing">![@anusha-kybing](https://avatars.githubusercontent.com/anusha-kybing?s=150&v=1)</a>
     ![@anusha-kybing](https://github.com/anusha-kybing)
   </div>
   <div>
+    <a href="https://github.com/kalyan-kybing">![@kalyan-kybing](https://avatars.githubusercontent.com/kalyan-kybing?s=150&v=1)</a>
     ![@kalyan-kybing](https://github.com/kalyan-kybing)
   </div>
   <div>
+    <a href="https://github.com/saritha-kybing">![@saritha-kybing](https://avatars.githubusercontent.com/saritha-kybing?s=150&v=1)</a>
     ![@saritha-kybing](https://github.com/saritha-kybing)
   </div>
   <div>
-    ![@uday-kybing](https://github.com/uday-kybing)
+    <a href="https://github.com/uday-kybing">![@uday-kybing](https://avatars.githubusercontent.com/uday-kybing?s=150&v=1)</a>
   </div>
 </div>
