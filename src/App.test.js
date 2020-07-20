@@ -5,6 +5,6 @@ import App from './App'
 
 test('renders Kybing Website', () => {
   const { getByText } = render(<App />)
-  const linkElement = getByText(/learn react/i)
-  expect(linkElement).toBeInTheDocument()
+  const element = getByText(/Board of Directors/i)
+  expect(element).toBeInTheDocument()
 })
