@@ -1,5 +1,7 @@
 import React from 'react'
 
+import './Home.css'
+
 const Home = () => (
   <div className='members'>
     <h3>Board of Directors</h3>

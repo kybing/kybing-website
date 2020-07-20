@@ -2,6 +2,8 @@ import React from 'react'
 
 import { Logo } from '../../components'
 
+import './Header.css'
+
 const Header = () => (
   <header className='App-header'>
     <Logo />
