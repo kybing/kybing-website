@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Home = () => (
-  <div className='members'>
+  <div className="members">
     <h3>Board of Directors</h3>
     <ul>Uday Sravan Kumar Kamineni</ul>
     <ul>Amarendhar Ganji</ul>
