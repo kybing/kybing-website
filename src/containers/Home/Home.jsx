@@ -1,7 +1,9 @@
 import React from 'react'
 
+import './Home.css'
+
 const Home = () => (
-  <div className="members">
+  <div className="Home-members">
     <h3>Board of Directors</h3>
     <ul>Uday Sravan Kumar Kamineni</ul>
     <ul>Amarendhar Ganji</ul>
