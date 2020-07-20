@@ -2,3 +2,4 @@ build/
 config/
 scripts/
 src/assets/*/**
+src/serviceWorker.js

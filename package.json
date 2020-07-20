@@ -60,8 +60,7 @@
     "test": "node scripts/test.js",
     "deploy": "gh-pages -d build",
     "lint": "eslint .",
-    "lint:fix": "eslint --fix .",
-    "format": "prettier --write \"**/*.+(js|jsx|json|yml|yaml|css|md|vue)\""
+    "lint:fix": "eslint --fix ."
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -90,6 +89,7 @@
     "@typescript-eslint/parser": "^2.34.0",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.2.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-config-react-app": "^5.2.1",
     "eslint-plugin-flowtype": "^4.7.0",
