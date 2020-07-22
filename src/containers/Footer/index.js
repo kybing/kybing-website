@@ -1,2 +1,5 @@
-// eslint-disable-next-line import/prefer-default-export
-export { default as Footer } from './Footer'
+import React from 'react'
+
+const Footer = () => <div>This is Footer</div>
+
+export default Footer

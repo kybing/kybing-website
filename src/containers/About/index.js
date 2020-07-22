@@ -1,2 +1,5 @@
-// eslint-disable-next-line import/prefer-default-export
-export { default as About } from './About'
+import React from 'react'
+
+const About = () => <div>About Page</div>
+
+export default About
