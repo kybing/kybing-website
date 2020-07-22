@@ -1,2 +1,3 @@
-// eslint-disable-next-line import/prefer-default-export
-export { Logo } from './Logo'
+import Logo from './Logo'
+
+export { Logo }
