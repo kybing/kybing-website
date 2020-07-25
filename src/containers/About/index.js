@@ -1,1 +1,5 @@
-export { default as About } from './About'
+import React from 'react'
+
+const About = () => <div>About Page</div>
+
+export default About
